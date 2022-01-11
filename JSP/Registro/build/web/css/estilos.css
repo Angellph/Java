@@ -1,0 +1,43 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+input[type="text"] {
+    outline: none;
+    padding: 15px;
+    display: block;
+    width: 350px;
+    border-radius: 3px;
+    border: 1px solid #eee;
+    margin: 20px auto;
+}
+
+input[type="submit"] {
+    padding: 7px;
+    color: #fff;
+    background: #0098cb;
+    width: 320px;
+    margin: 20px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #00b8bb;
+}
+h1{
+    text-align: center;
+}    
+#registro{
+    text-align: center;
+}
+.footer {
+    background: #f2f2f2;
+    padding: 2rem 0;
+    text-align: center;
+    margin-top: 6rem;
+}
+tr{
+    background-color: #f2f2f2;
+}
